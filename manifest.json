@@ -1,0 +1,26 @@
+{
+  "name": "EduPlan — Учебный органайзер",
+  "short_name": "EduPlan",
+  "description": "Органайзер для учебных задач и расписания",
+  "start_url": "./pwa",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050b14",
+  "theme_color": "#050b14",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "./icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
